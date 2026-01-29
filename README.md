@@ -3,7 +3,7 @@ This project explores the **Stack Overflow Annual Developer Survey** to identify
 
 ## Data Analysis Process
 The full analysis, including data cleaning and insights, can be found in the Jupyter Notebook:
-👉 [View Full Analysis (Jupyter Notebook)](Stack_Overflow_Analysis.ipynb)
+👉 [View Full Analysis (Jupyter Notebook)](bhttps://github.com/Ievga/Stack-Overflow-Survey-Analysis/blob/main/Stack-Overflow-Survey-Analysis.ipynb)
 
 ## Data Source
 The dataset used in this project is sourced from the **Stack Overflow Developer Survey**. 
